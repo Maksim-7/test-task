@@ -3,8 +3,6 @@
   - итоговый результат https://8xr0v.csb.app  
   - код приложения https://codesandbox.io/s/practical-cdn-8xr0v
 
-***
-
 ## Задача
 Реализовать web-приложение, содержащее страницу с таблицей, реализованную с помощью 
 https://www.npmjs.com/package/react-table
